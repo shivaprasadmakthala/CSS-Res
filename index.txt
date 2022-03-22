@@ -1,0 +1,34 @@
+vRWD:responsive web design 
+Media queries:
+syntax:
+@media screen {
+         //inside this i can write any kind of css properties   
+        }
+units in css
+absolute units
+relative units
+
+absolute units:
+cm,mm,in,px,pt,pc
+fixed units 
+px:1px=1/96th of 1 in 
+pt:1pt=1/72th of 1 in 
+pc:picas:1pc=11-12pt 
+
+relative units 
+em,vmin,vmax,rem,vm,%
+em:relative 
+
+Gradients:basically used for the transition of colors
+linear Gradient:background-image: linear-gradient();
+colors and the direction
+
+default flow of direction :is from top to bottom
+
+radial gradient
+CDN:content delivery network
+xs:extra small  
+sm:small
+md:medium
+lg:large
+xl:extra large 
